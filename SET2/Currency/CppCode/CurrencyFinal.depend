@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600435384 source:c:\users\training\desktop\cppcodes\currencyfinal\main.cpp
+	<iostream>
+	"CurrencyFinal.h"
+
+1600435125 c:\users\training\desktop\cppcodes\currencyfinal\currencyfinal.h
+	<iostream>
+

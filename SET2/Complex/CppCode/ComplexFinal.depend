@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1600489083 source:c:\users\training\desktop\cppcodes\complexfinal\main.cpp
+	<iostream>
+	"ComplexFinal.h"
+
+1600489059 c:\users\training\desktop\cppcodes\complexfinal\complexfinal.h
+
+1600618551 source:c:\users\tejas\downloads\cppcodes-20200920t131215z-001\cppcodes\complexfinal\main.cpp
+	<iostream>
+	"ComplexFinal.h"
+
+1600618544 c:\users\tejas\downloads\cppcodes-20200920t131215z-001\cppcodes\complexfinal\complexfinal.h
+
