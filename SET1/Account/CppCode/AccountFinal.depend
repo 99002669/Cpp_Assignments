@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600407147 source:c:\users\training\desktop\cppcodes\accountfinal\main.cpp
+	<iostream>
+	"account.h"
+
+1600407137 c:\users\training\desktop\cppcodes\accountfinal\account.h
+	<string>
+
+1600608058 source:c:\users\tejas\downloads\cppcodes-20200920t131215z-001\cppcodes\accountfinal\main.cpp
+	<iostream>
+	"account.h"
+
+1600607664 c:\users\tejas\downloads\cppcodes-20200920t131215z-001\cppcodes\accountfinal\account.h
+	<string>
+

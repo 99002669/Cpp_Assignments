@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600339713 source:c:\users\training\desktop\cppcodes\colorfinal\main.cpp
+	<iostream>
+	"ColorFinal.h"
+
+1600339918 c:\users\training\desktop\cppcodes\colorfinal\colorfinal.h
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600342608 source:c:\users\training\desktop\cppcodes\boxfinal\main.cpp
+	<iostream>
+	"BoxFinal.h"
+
+1600342557 c:\users\training\desktop\cppcodes\boxfinal\boxfinal.h
+	<iostream>
+
+1600608306 source:c:\users\tejas\downloads\cppcodes-20200920t131215z-001\cppcodes\boxfinal\main.cpp
+	<iostream>
+	"BoxFinal.h"
+
+1600607666 c:\users\tejas\downloads\cppcodes-20200920t131215z-001\cppcodes\boxfinal\boxfinal.h
+	<iostream>
+

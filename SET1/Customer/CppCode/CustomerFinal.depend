@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600343141 source:c:\users\training\desktop\cppcodes\customerfinal\main.cpp
+	<iostream>
+	"CustomerFinal.h"
+
+1600342926 c:\users\training\desktop\cppcodes\customerfinal\customerfinal.h
+

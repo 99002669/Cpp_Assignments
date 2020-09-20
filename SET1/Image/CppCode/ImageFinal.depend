@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600338050 source:c:\users\training\desktop\cppcodes\imagefinal\main.cpp
+	<iostream>
+	"Image.h"
+
+1600337881 c:\users\training\desktop\cppcodes\imagefinal\image.h
+	<string>
+
