@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1600620001 source:c:\users\shraw\desktop\set3-20200920t123059z-001\set3\customer\main.cpp
+	<iostream>
+	"customer.h"
+	"postpaid.h"
+	"prepaid.h"
+
+1600619314 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\customer\customer.h
+	<string>
+	<cstdint>
+
+1600619337 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\customer\postpaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600619368 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\customer\prepaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+

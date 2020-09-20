@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1600609091 source:c:\users\shraw\desktop\set3-20200920t123059z-001\set3\employee\main.cpp
+	<iostream>
+	"employee.h"
+	"engineer.h"
+	"manager.h"
+	"trainee.h"
+
+1600467900 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\employee\employee.h
+	<iostream>
+	<string>
+
+1600465930 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\employee\engineer.h
+	<iostream>
+	<string>
+	"employee.h"
+
+1600608954 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\employee\manager.h
+	<iostream>
+	"string.h"
+	"employee.h"
+
+1600609338 c:\users\shraw\desktop\set3-20200920t123059z-001\set3\employee\trainee.h
+	<iostream>
+	<string>
+	"employee.h"
+
