@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiWindowApp</string>
+    <string name="action_minimise">action_minimise</string>
+    <string name="action_resize">action_resize</string>
+    <string name="action_close">action_close</string>
+
+</resources>
